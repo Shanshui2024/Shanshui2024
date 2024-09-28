@@ -1,18 +1,18 @@
-## Hi there 👋 | 您好  👋
-## Welcome to My Own Space | 欢迎来到我的空间
+## Hi there 👋
+## Welcome to My Own Space
 
 <br />
 
-## I'm a developer and senior-high school student | 我是一名开发者兼高中生
+## I'm a developer and senior-high school student.
 
 <br />
 
-## For this reason, I can't update my repositorise at time | 出于此，我就没办法更新数据库了
+## For this reason, I can't update my repositorise at time.
 
 <br />
 
-## I have some Repositories... | 我在这里存了一些东西
+## I have some Repositories...
 
 <br />
 
-## Though many of them is used on my owm :) | 尽管大部分都是我自用的(
+## Though many of them is used on my owm :)
