@@ -1,18 +1,10 @@
 ## Hi there 👋
 ## Welcome to My Own Space
 
-<br />
+![image](https://visitor-badge.laobi.icu/badge?page_id=shanshui2024.visitor-badge)
 
-## I'm a developer and senior-high school student.
+<a href="https://ifdian.net/a/SPR-Community"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
 
-<br />
+![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshui2024&layout=compact&hide_title=true)
 
-## For this reason, I can't update my repositorise at time.
-
-<br />
-
-## I have some Repositories...
-
-<br />
-
-## Though many of them is used on my owm :)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Shanshui2024&show_icons=true&hide_title=true)
