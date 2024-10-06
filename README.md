@@ -7,4 +7,4 @@
 
 ![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshui2024&layout=compact&hide_title=true)
 
-![GitHub Readme Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shanshui2024&hide=issues&show_icons=true&hide_border=true)
+![GitHub Readme Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shanshui2024&show_icons=true)
