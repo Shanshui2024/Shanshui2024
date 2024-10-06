@@ -5,6 +5,5 @@
 
 <a href="https://ifdian.net/a/SPR-Community"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""></a >
 
-![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshui2024&layout=compact&hide_title=true)
-
+![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanshui2024&layout=compact)
 ![GitHub Readme Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shanshui2024&show_icons=true)
