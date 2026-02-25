@@ -37,11 +37,6 @@
 | [AxTBot](https://github.com/AxT-Team/AxTBot) | 基于QQ官方API开发的AxTBot | Python, Flask |
 | [HomePage](https://github.com/Shanshui2024/Site-HomePage) | 一个由AI生成的个人主页 | Next.js, React, TypeScript, Tailwind CSS |
 
-## 📝 最新博客文章
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌐 联系我
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shanshui2024)
