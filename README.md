@@ -5,7 +5,7 @@
 ## 🚀 关于我
 
 - 🌱 我正在学习 **Python、C++、绘画、调色、CG动画、Blender、PR等等...**
-- 💬 可以问我关于 **Python或之类的我所喜欢的东西**
+- 💬 可以问我关于 **Python**或之类的我所喜欢的
 - 📫 如何联系我：**3381734705@qq.com**
 - ⚡ 有趣的事实：**是个男生但感觉有点偏图灵派了（**
 
@@ -34,7 +34,7 @@
 
 | 项目名称 | 描述 | 技术栈 |
 |----------|------|--------|
-| [AxTBot](https://github.com/AxT-Team/AxTBot) | 基于QQ官方API开发的AxTBot | Python, Flask |
+| [AxTBot](https://github.com/AxT-Team/AxTBot) | 基于QQ官方API开发的AxTBot | Python, FastAPI |
 | [HomePage](https://github.com/Shanshui2024/Site-HomePage) | 一个由AI生成的个人主页 | Next.js, React, TypeScript, Tailwind CSS |
 
 ## 🌐 联系我
