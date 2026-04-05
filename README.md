@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&width=435&lines=欢迎来到我的GitHub主页！;我已经十七周岁啦o(〃＾▽＾〃)o;一个Python小白罢了)](https://git.io/typing-svg)
+![Short Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&width=435&lines=欢迎来到我的GitHub主页！;我已经十七周岁啦o(〃＾▽＾〃)o;一个Python小白罢了)
 
 ## 🚀 关于我
 
